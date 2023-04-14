@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Andy! Andres Mariano Fernández</h1>
+<h1 align="center">Hola 👋, soy Andy!</h1>
 <h3 align="center">Desarrollador we full stack en Valencia, España</h3>
 
 - 🔭 Actualmente estoy trabajando en [Virtual Bank](https://github.com/andres94af/Virtual-Bank)
