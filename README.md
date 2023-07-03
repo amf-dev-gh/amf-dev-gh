@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Andy!</h1>
 <h3 align="center">Desarrollador we full stack en Valencia, España</h3>
 
-- 🔭 Actualmente estoy trabajando en [Spring Boot IG](https://github.com/andres94af/SpringBoot-IG)
+- 🔭 Actualmente estoy trabajando en [Listado de Compras - Backend](https://github.com/andres94af/lista-compras)
 
 - 🌱 Actualmente estoy aprendiendo **Spring, Spring Boot**
 
