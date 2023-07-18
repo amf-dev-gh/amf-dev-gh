@@ -1,12 +1,7 @@
 <h1 align="center">Hola 👋, soy Andy!</h1>
 <h3 align="center">Desarrollador Full Stack (Java ❤)</h3>
 
-- 🔭 Actualmente estoy trabajando en:
--  [Listado de Compras - Back Java / SpringBoot](https://github.com/andres94af/lista-compras)
--  [Listado de Compras - Front Angular](https://github.com/andres94af/lista-compras-front)
-
-
-- 🌱 Constantemente aprendiendo **Spring, Spring Boot**
+- 🌱 Constantemente aprendiendo **Spring, Spring Boot y Angular**
 
 - 👨‍💻 Toda mi informacion y proyectos disponibles en [https://andres94af.github.io/mi-portfolio/](https://andres94af.github.io/mi-portfolio/)
 
