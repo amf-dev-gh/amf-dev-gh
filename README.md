@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Andy!</h1>
-<h3 align="center">Desarrollador Full Stack (Java ❤)</h3>
+<h3 align="center">Desarrollador Back End (Java ❤)</h3>
 
 - 🌱 Constantemente aprendiendo **Spring, Spring Boot y Angular**
 
