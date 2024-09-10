@@ -3,8 +3,6 @@
 
 - 🌱 Constantemente aprendiendo **Spring, Spring Boot y Angular**
 
-- 👨‍💻 Trabajando actualmente en proyecto para cafeteria [Emblematic](https://github.com/andres94af/emblematic)
-
 - 🗂 Toda mi informacion y proyectos disponibles en [https://andres94af.github.io/mi-portfolio/](https://andres94af.github.io/mi-portfolio/)
 
 - 📫 Como contactarme **andres94.af@gmail.com**
