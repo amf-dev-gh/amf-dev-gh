@@ -24,4 +24,4 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amf-dev-gh&show_icons=true&locale=en&layout=compact" alt="amf-dev-gh" /></p>
+![amf-dev-gh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amf-dev-gh&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
